@@ -1,4 +1,4 @@
-🇰🇷 한국어 보기 | 🇺🇸 English
+[Korean (한국어)](./README-KO.md) | [English](./README.md)
 
 🎬 YouTube GIF Feature for Microsoft Edge
 

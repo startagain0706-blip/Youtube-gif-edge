@@ -1,3 +1,5 @@
+🇰🇷 한국어 보기 | 🇺🇸 English
+
 🎬 YouTube GIF Feature for Microsoft Edge
 
 A lightweight, seamless Microsoft Edge extension that restores and unlocks the native GIF sharing feature in YouTube comments and live chats.
@@ -14,6 +16,10 @@ Privacy First: Operates entirely client-side with zero data collection or tracki
 
 📸 Preview
 
+Adds a clean GIF button next to the standard emoji selector in YouTube comments:
+
+[ 😊 ]  [ GIF ]
+
 🚀 Installation Guide
 
 Since this is an open-source project, you can easily load it into Microsoft Edge via Developer Mode:
@@ -26,10 +32,7 @@ Extract the downloaded archive to a folder on your computer.
 
 Step 2: Load into Microsoft Edge
 
-Open Microsoft Edge and navigate to:
-
-edge://extensions/
-
+Open Microsoft Edge and navigate to edge://extensions/
 
 Turn on the Developer mode switch located at the bottom of the left sidebar.
 
@@ -55,16 +58,12 @@ Troubleshooting: If the GIF button does not appear immediately, try refreshing t
 
 📁 Repository Structure
 
-📦 youtube-gif-feature/
-├── 📄 README.md           # Documentation (English)
-├── 📄 README-KO.md        # Documentation (Korean)
-├── 🖼️ icon-128.png        # Extension App Icon
-└── 📦 desktop-gifs-edge.zip # Source code package
+youtube-gif-feature/
+├── README.md           # Documentation (English)
+├── README-KO.md        # Documentation (Korean)
+├── icon-128.png        # Extension App Icon
+└── desktop-gifs-edge.zip # Source code package
 
-
-🤝 Contributing & Feedback
-
-Contributions, bug reports, and feature requests are always welcome! Feel free to open an issue or submit a pull request.
 
 📜 License
 

@@ -1,10 +1,12 @@
+🇺🇸 English | 🇰🇷 한국어 보기
+
 🎬 YouTube GIF Feature for Microsoft Edge
 
 유튜브 댓글 창과 실시간 채팅(라이브 챗)에서 기본 GIF 공유 기능을 복원하고 활성화해 주는 가볍고 깔끔한 Microsoft Edge 확장 프로그램입니다.
 
 ✨ 주요 기능
 
-기본 UI 통합: 유튜브 댓글 입력창 및 실시간 채팅창의 이모지(이모티콘) 선택기 바로 옆에 세련된 [GIF] 버튼을 자연스럽게 추가합니다.
+기본 UI 통합: 유튜브 댓글 입력창 및 실시간 채팅창의 이모지 선택기 바로 옆에 세련된 [GIF] 버튼을 자연스럽게 추가합니다.
 
 간편한 검색 및 전송: 탭을 전환하거나 링크를 복사할 필요 없이 유튜브 화면에서 바로 애니메이션 GIF를 검색하고 전송할 수 있습니다.
 
@@ -13,6 +15,10 @@
 프라이버시 보호: 데이터 수집이나 추적 없이 완전히 클라이언트 사이드에서만 작동합니다.
 
 📸 미리보기
+
+유튜브 댓글 입력창의 이모지 선택기 옆에 깔끔한 GIF 버튼이 추가됩니다:
+
+[ 😊 ]  [ GIF ]
 
 🚀 설치 가이드
 
@@ -26,10 +32,7 @@
 
 2단계: Microsoft Edge에 확장 프로그램 로드하기
 
-Microsoft Edge를 실행하고 주소창에 아래 주소를 입력하여 확장 프로그램 페이지로 이동합니다:
-
-edge://extensions/
-
+Microsoft Edge를 실행하고 주소창에 edge://extensions/ 주소를 입력하여 이동합니다.
 
 Turn on the Developer mode switch located at the bottom of the left sidebar.
 
@@ -55,17 +58,13 @@ Microsoft Edge에서 유튜브(https://www.youtube.com)에 접속합니다.
 
 📁 저장소 구조
 
-📦 youtube-gif-feature/
-├── 📄 README.md           # 문서 (영어)
-├── 📄 README-KO.md        # 문서 (한국어)
-├── 🖼️ icon-128.png        # 확장 프로그램 아이콘
-└── 📦 desktop-gifs-edge.zip # 소스 코드 패키지
+youtube-gif-feature/
+├── README.md           # 문서 (영어)
+├── README-KO.md        # 문서 (한국어)
+├── icon-128.png        # 확장 프로그램 아이콘
+└── desktop-gifs-edge.zip # 소스 코드 패키지
 
-
-🤝 기여 및 피드백
-
-기여, 버그 리포트, 기능 제안은 언제나 환영합니다! 이슈(Issue)나 풀 리퀘스트(Pull Request)를 편하게 남겨주세요.
 
 📜 라이선스
 
-이 프로젝트는 MIT License를 따릅니다. 자세한 내용은 저장소 설정을 참고해 주세요.
+이 프로젝트는 MIT License를 따릅니다.

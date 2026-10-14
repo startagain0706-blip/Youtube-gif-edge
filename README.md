@@ -1,34 +1,50 @@
-# YouTube GIF Feature for Microsoft Edge
+<div align="right">
+  <a href="./README-KO.md">🇰🇷 한국어 보기</a> | <a href="./README.md">🇺🇸 English</a>
+</div>
 
-![YouTube GIF Feature](https://raw.githubusercontent.com/startagain0706-blip/youtube-gif-feature/main/icons/icon-128.png)
+<div align="center">
 
-A lightweight Microsoft Edge extension that restores and enables the GIF selection feature in YouTube comment sections and live chats.
+# 🎬 YouTube GIF Feature for Microsoft Edge
+
+<img src="./icon-128.png" width="120" alt="Extension Icon" style="border-radius: 20px;">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Microsoft%20Edge-blue?logo=microsoft-edge)](https://www.microsoft.com/edge)
+[![Manifest V3](https://img.shields.io/badge/Manifest-V3-success)](https://developer.chrome.com/docs/extensions/mv3)
+
+*A lightweight, seamless Microsoft Edge extension that restores and unlocks the native GIF sharing feature in YouTube comments and live chats.*
+
+</div>
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-* **GIF Button Integration:** Adds a native-looking GIF button next to the emoji picker in YouTube comment input boxes.
-* **Seamless Search & Insertion:** Easily search and insert GIFs into your comments or live chat messages on YouTube.
-* **Edge Optimized:** Built specifically for Microsoft Edge using modern Manifest V3 standards.
-* **Lightweight & Fast:** Runs efficiently in the background without affecting video playback performance.
+- **Native UI Integration:** Seamlessly injects a sleek `[GIF]` button right next to the emoji picker in YouTube comment input boxes and live chats.
+- **Instant Search & Send:** Search and share animated GIFs directly on YouTube without switching tabs or copying image links.
+- **Edge-Optimized (Manifest V3):** Built with modern browser extension standards for blazing-fast performance and minimal memory footprint.
+- **Privacy First:** Operates entirely client-side with zero data collection or tracking.
 
 ---
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="./icons/icon-128.png" width="128" alt="Extension Icon">
-</p>
-
-> **Note:** Adds the `[GIF]` button right next to the emoji button in the comment interface.
+<div align="center">
+  <p><em>Adds a clean GIF button next to the standard emoji selector in YouTube comments:</em></p>
+  <code>[ 😊 ]  [ GIF ]</code>
+</div>
 
 ---
 
-## 🚀 Installation Guide (Developer Mode)
+## 🚀 Installation Guide
 
-Since this extension is an open-source project, you can load it directly into Microsoft Edge:
+Since this is an open-source project, you can easily load it into Microsoft Edge via Developer Mode:
 
-1. Download or clone this repository:
-   ```bash
-   git clone [https://github.com/startagain0706-blip/youtube-gif-feature.git](https://github.com/startagain0706-blip/youtube-gif-feature.git)
+### Step 1: Download & Extract
+1. Download this repository as a ZIP file (click the green **Code** button ➔ **Download ZIP**).
+2. Extract the downloaded archive to a folder on your computer.
+
+### Step 2: Load into Microsoft Edge
+1. Open **Microsoft Edge** and navigate to:
+   ```text
+   edge://extensions/
